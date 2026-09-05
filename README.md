@@ -1,2 +1,2 @@
 # GitHub files
-Learjet text based Flight Simulator copying the VZ200 Learjet of 1983
+I supervised Kimi K3 Max in puting this game called Learjet together. I had the ideas and Kimi gave me Phython code to build the program. It is based on the Dick Smith Electronics game popular on the VZ200 in about 1983. My interpretation offers a lot more bells and whisles than the original did. I played this with my young sons and a fine time was had by all. Feel free to develope the game further. Have fun.
